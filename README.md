@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PejmanGhafouri](https://github.com/PejmanGhafouri)
 
-- 💬 Ask me about **Python, Javascript, React, Nextjs, Django, Django Rest Framework (DRF), Odoo, Microservice architecture, Linux, Docker and Celery**
+- 💬 Ask me about **Python, Javascript, Django, Django Rest Framework (DRF), React, Nextjs, Odoo, Microservice architecture, Linux, Docker and Celery**
 
 - 📫 How to reach me **pejmanghafouricorp@gmail.com**
 
