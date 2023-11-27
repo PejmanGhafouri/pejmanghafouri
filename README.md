@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pejman</h1>
-<h3 align="center">A Backend Developer</h3>
-
-- 🌱 I’m currently learning **Flask, FastApi, Algorithms and Data-structure, Microservice architecture, SQL**
+<h3 align="center">A Fullstack Developer</h3>
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
@@ -9,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PejmanGhafouri](https://github.com/PejmanGhafouri)
 
-- 💬 Ask me about **Python, Django, Django Rest Framework (DRF), Odoo, Microservice architecture, Linux, Docker and Celery**
+- 💬 Ask me about **Python, Javascript, React, Nextjs, Django, Django Rest Framework (DRF), Odoo, Microservice architecture, Linux, Docker and Celery**
 
 - 📫 How to reach me **pejmanghafouricorp@gmail.com**
 
